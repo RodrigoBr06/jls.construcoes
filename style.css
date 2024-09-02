@@ -36,6 +36,7 @@ div{
     border-radius: 0px 0px 0px 30px;
     color: white;
     align-items: center;
+    margin-bottom: 20px;
 }
 a{
     text-decoration: none;
@@ -74,9 +75,29 @@ h2{
     margin: 10px;
 }
 button{
-    border-radius: 20px;
-    background-color: rgb(169, 159, 159);
+    border-radius: 800px;
+    height: 80px;
+    width: 80px;
+    background-color:white;
     color: black;
+
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.botoao{
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    
+
+
+
+}
+.botoao:hover{
+    background-color: black;
 }
 
 
