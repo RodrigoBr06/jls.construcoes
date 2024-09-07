@@ -4,7 +4,7 @@ var voltar=document.querySelector("#voltar")
 var foto=document.querySelector("#img")
 
 function seg(){
-    foto.src="https://scontent.cdninstagram.com/v/t51.29350-15/293124355_388106466636937_8757604513731375031_n.webp?stp=dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=tA03kmy7ccUQ7kNvgF_01pp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYDtmergRx7stQNoc273iHwPfijY-0AZgNJCBIGh9PvxoA&oe=66DAF0EA"
+    foto.src="https://scontent.cdninstagram.com/v/t51.29350-15/293124355_388106466636937_8757604513731375031_n.webp?stp=dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=5GdzGuSVXTwQ7kNvgHjmnTm&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYBjwXeCG2M_BYzVIRIxj6VMPudjQhIsxrv92h7EA1PC3w&oe=66E1886A"
 }
 function volt(){
     foto.src="https://scontent.cdninstagram.com/v/t51.29350-15/291184536_186597157049301_6278880693105637722_n.webp?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=_z_IqaS7z7wQ7kNvgEXSsu1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYBWyvp0pDnu0YMyyA7khgzf9QPfQMDbiM8bQqXtoUTDYw&oe=66DAD2D2" 
