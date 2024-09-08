@@ -51,7 +51,7 @@ function ft5(){
     foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/271380239_982420305687847_7141428040250723002_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=hNTWRq94qEYQ7kNvgHE-QHC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYDE6iUDdMWcFIKpdsrDbZWhqs5rt1VXCwGiQVDRi3np0g&oe=66DBA6EC" 
 }
 
-bt1.addEventListener("click",ft1)
+bt1.addEventListener("click",ft1).
 bt2.addEventListener("click",ft2)
 bt3.addEventListener("click",ft3)
 bt4.addEventListener("click",ft4)
