@@ -45,7 +45,7 @@ function ft3(){
     foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/271287459_130235222801191_901004368131434897_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=62osKJ-i81sQ7kNvgFTBOCJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYAs3m2PUz9uyYj7CU4v9V0HZ6jgziOqPvklOe4qSKHvXg&oe=66DBAC82" 
 }
 function ft4(){
-    foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/309225667_135769225621543_8686093310003703259_n.webp?stp=dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=hj8GOhmZTVoQ7kNvgEZeETs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYBUepIihz3nYo6ZIqNCj7gMZaPacUp9I30D7KxMnJOWgg&oe=66DBC8EE" 
+    foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/309225667_135769225621543_8686093310003703259_n.webp?stp=dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=9NF2vNfGfrsQ7kNvgHlR3ud&_nc_ht=scontent.cdninstagram.com&oh=00_AYAFrw0Eo92hhZYdD7bvlJ-apKgnhsFp6YFz0LqjDVlNog&oe=66E3B1EE" 
 }
 function ft5(){
     foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/271380239_982420305687847_7141428040250723002_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=BmZGuZeeaSUQ7kNvgHqkdNb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYCmFwMF2Tg45lWt5YdWHwjdEefdzC2OMAmTysvxQdaDfA&oe=66E3C82C" 
