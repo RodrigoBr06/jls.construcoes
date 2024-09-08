@@ -35,6 +35,8 @@ var foto3=document.querySelector("#img3")
 
 function ft1(){
     foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/245419345_1141096586428211_8094751257399204988_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=nFiYPpg4zpkQ7kNvgHaIPPL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYDSP-U6fr_1vbTSfIuurX5ouigkNHlWCkoe0kgAdaqP0g&oe=66DBB9DC"
+    
+
 }
 function ft2(){
     foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/327150691_8755823501157925_5916429378106310971_n.webp?stp=dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=3pgAVQB53fsQ7kNvgFBydCn&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYBdmsTPZW8Hfx2NYaaaNKPg41qKZxypfhTlyZAzadn2aQ&oe=66E186B4" 
