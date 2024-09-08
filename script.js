@@ -48,7 +48,7 @@ function ft4(){
     foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/309225667_135769225621543_8686093310003703259_n.webp?stp=dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=hj8GOhmZTVoQ7kNvgEZeETs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYBUepIihz3nYo6ZIqNCj7gMZaPacUp9I30D7KxMnJOWgg&oe=66DBC8EE" 
 }
 function ft5(){
-    foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/271380239_982420305687847_7141428040250723002_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=hNTWRq94qEYQ7kNvgHE-QHC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYDE6iUDdMWcFIKpdsrDbZWhqs5rt1VXCwGiQVDRi3np0g&oe=66DBA6EC" 
+    foto3.src="https://scontent.cdninstagram.com/v/t51.29350-15/271380239_982420305687847_7141428040250723002_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=BmZGuZeeaSUQ7kNvgHqkdNb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AYCmFwMF2Tg45lWt5YdWHwjdEefdzC2OMAmTysvxQdaDfA&oe=66E3C82C" 
 }
 
 bt1.addEventListener("click",ft1)
