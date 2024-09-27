@@ -7,7 +7,7 @@ function seg(){
     foto.src="img/Screenshot_20240926-204928~2.png"
 }
 function volt(){
-    foto.src="img/Screenshot_20240926-204925~2.png" 
+    foto.src= "img/Screenshot_20240926-204925~2.png"
 }
 seguir.addEventListener("click",seg)
 voltar.addEventListener("click",volt)
